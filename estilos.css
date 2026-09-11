@@ -10,17 +10,6 @@ body {
   background-color: #f4f4f4;
   color: #333;
 }
-.botao-snake {
-  background-image: url("cobrinha.png"); 
-  background-size: cover;                  
-  background-position: center;            
-  background-repeat: no-repeat;            
-  
- 
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8); 
-}
-
-
 .cabecalho {
   background-color: #27EEF5;
   color: white;
