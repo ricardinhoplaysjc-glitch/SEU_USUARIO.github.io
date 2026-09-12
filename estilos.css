@@ -46,4 +46,15 @@ body {
   padding: 20px;
   text-align: center;
   border-radius: 6px;
+   display: inline-flex;
+  flex-direction: column; /* Se quiser o texto abaixo da imagem */
+  align-items: center;    /* Centraliza a imagem horizontalmente */
+  justify-content: center;/* Centraliza a imagem verticalmente */
+  gap: 10px; 
+}
+.botao img{
+   max-width: 100%;       /* Impede que a imagem passe da largura do botão */
+  height: auto;          /* Mantém a proporção e evita que fique esticada */
+  max-height: 40px;      /* (Opcional) Limita a altura máxima para não estourar o botão */
+  object-fit: contain;   /* Garante que ela caiba inteira sem cortes */
 }
