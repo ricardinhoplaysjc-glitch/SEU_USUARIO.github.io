@@ -11,8 +11,8 @@ body {
   color: #333;
 }
 .botao-imagem {
-  width: 350px;
-  height: 100px;
+  width: 30px;
+  height: 20px;
   background-image: url("cobrinha.png");
   background-size: cover; /* Faz a imagem cobrir todo o espaço do botão */
   background-position: center; /* Centraliza a imagem no botão */
