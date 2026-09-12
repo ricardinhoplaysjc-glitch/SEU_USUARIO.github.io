@@ -18,8 +18,9 @@ body {
   background-position: center; /* Centraliza a imagem no botão */
   background-repeat: no-repeat; /* Impede que a imagem se repita */
   border: none;
-  color: white; /* Cor do texto para contraste */
+  color: black; /* Cor do texto para contraste */
   cursor: pointer;
+  font-weight:bold;
 }
 .cabecalho {
   background-color: #27EEF5;
