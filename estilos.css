@@ -52,5 +52,10 @@ body {
   padding: 40px;
   text-align: center;
   border-radius: 12px;
+   background-image: url("cobrinha.png");
+  background-size: cover; /* Faz a imagem cobrir todo o espaço do botão */
+  background-position: center; /* Centraliza a imagem no botão */
+  background-repeat: no-repeat; /* Impede que a imagem se repita */
+  border: none;
 }
   
