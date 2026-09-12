@@ -10,6 +10,17 @@ body {
   background-color: #f4f4f4;
   color: #333;
 }
+.botao-imagem {
+  width: 150px;
+  height: 50px;
+  background-image: url("cobrinha.png");
+  background-size: cover; /* Faz a imagem cobrir todo o espaço do botão */
+  background-position: center; /* Centraliza a imagem no botão */
+  background-repeat: no-repeat; /* Impede que a imagem se repita */
+  border: none;
+  color: white; /* Cor do texto para contraste */
+  cursor: pointer;
+}
 .cabecalho {
   background-color: #27EEF5;
   color: white;
