@@ -20,6 +20,7 @@ body {
   color: #141313; /* Cor do texto para contraste */
   cursor: pointer;
   font-weight:bold;
+  text-align:center;
 }
 .cabecalho {
   background-color: #27EEF5;
