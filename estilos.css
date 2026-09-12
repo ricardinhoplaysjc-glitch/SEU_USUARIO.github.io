@@ -17,7 +17,6 @@ body {
   background-size: cover; /* Faz a imagem cobrir todo o espaço do botão */
   background-position: center; /* Centraliza a imagem no botão */
   background-repeat: no-repeat; /* Impede que a imagem se repita */
-  border: none;
   color: #141313; /* Cor do texto para contraste */
   cursor: pointer;
   font-weight:bold;
